@@ -20,9 +20,9 @@
 ### 结果：
 镜像：registry.cn-shanghai.aliyuncs.com/xl717/pakdd2020:2.6
 ```buildoutcfg
-score:
-precision:
-recall:
+score:0
+precision:0
+recall:0
 ```
 
 ### 生成镜像目录结构
