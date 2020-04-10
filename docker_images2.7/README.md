@@ -26,6 +26,21 @@ score:23
 precision:16
 recall:43
 ```
+镜像：registry.cn-shanghai.aliyuncs.com/xl717/pakdd2020:2.7.1
+模型训练中预测平均值>=0.5
+```buildoutcfg
+score:27
+precision:20
+recall:39
+```
+镜像：registry.cn-shanghai.aliyuncs.com/xl717/pakdd2020:2.7.2
+模型训练中预测平均值>=0.5
+不做特征提取这一步
+```buildoutcfg
+score:21
+precision:16
+recall:33
+```
 
 ### 生成镜像目录结构
 ```
